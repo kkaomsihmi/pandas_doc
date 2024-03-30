@@ -1,5 +1,5 @@
 # README
-panda_docファイルについて
+pandas_docファイルについて
 
 ## git管理ルール
 基本的にmaster branch上で操作しないこと.  
